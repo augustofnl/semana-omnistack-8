@@ -1,0 +1,5 @@
+---
+applications:
+  - name: 4nlnode
+    host: 4nlnode
+    memory: 128M
